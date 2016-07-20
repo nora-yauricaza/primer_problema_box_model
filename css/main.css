@@ -1,0 +1,28 @@
+/** 
+Escribir el CSS necesario aqui
+*/
+
+.primero{
+    margin:120px 60px 30.5px 60px;
+    background-color: #61F0B5;    
+    padding: 40px 20px 70px 100px;
+    
+  
+}
+
+.segundo{
+	border: 5px solid #7C1AC1;
+    background-color: #F7D576;
+
+    
+}
+
+p{   
+	width: 500px;
+    height: 50px;
+	font-size: 18px;
+	text-align: center;
+    background-color: #FFFFFF;
+    border: 2px dashed #0F7706;
+
+}
